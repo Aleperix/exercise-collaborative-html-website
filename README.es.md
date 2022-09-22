@@ -38,7 +38,8 @@ c) Indícale a tus estudiantes o a los miembros de tu equipo que clonen tu repos
 
 **Tanto estudiantes como profesores:**
 
-Para cargar y ver tu sitio web live, ejecuta el siguiente comando:
+Para cargar y ver tu sitio web 
+live, ejecuta el siguiente comando:
 
 ```bash
 $ npx http-server --yes -c-1
