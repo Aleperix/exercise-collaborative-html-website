@@ -1,3 +1,9 @@
 body{
-    background: #fff;
+    background: #BDBDBD;
+}
+.jumbotron-image{
+    background-image: url('./assets/img/bg.jpg');
+    background-position: bottom; 
+    background-repeat: no-repeat; 
+    background-size: cover;
 }
